@@ -1,6 +1,3 @@
-# faq_frontedn_mentor
-This repository is a solution for the FAQ Accordion challenge of Frotend Mentor
-
 # Frontend Mentor - FAQ Accordion solution
 
 This is a solution to the [FAQ Accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz).
