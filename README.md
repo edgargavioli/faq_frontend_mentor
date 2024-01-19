@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# faq_frontedn_mentor
+This repository is a solution for the FAQ Accordion challenge of Frotend Mentor
 
-## Getting Started
+# Frontend Mentor - FAQ Accordion solution
 
-First, run the development server:
+This is a solution to the [FAQ Accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Screenshot
 
-## Learn More
+![image](https://github.com/edgargavioli/faq_frontend_mentor/assets/58188033/fb2ef82b-5744-463e-8dcb-1a61c32232e1)
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/edgargavioli/faq_frontend_mentor/assets/58188033/1dd95338-0bd3-4035-a04e-2a7fe217ef59)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Deploy on Vercel
+## My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Install Next.js 14 and start the project with TypeScript, Tailwind and Shadcn-ui
+- Tailwind custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - TypeScript
+- [TailWind](https://tailwindcss.com/) - Tailwind for styles
+- [Shadcn-ui](https://ui.shadcn.com/) - Shadcn-ui for the card component
+
+### What I learned
+
+I learn to use vars tailwind.
+
+### Continued development
+
+In my future Frontend Mentor projects I will focus on more generalization of components and other particularities for better reuse of components.
+
+## Author
+
+- Frontend Mentor - [@edgargavioli](https://www.frontendmentor.io/profile/edgargavioli)
