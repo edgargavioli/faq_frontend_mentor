@@ -6,7 +6,6 @@ This is a solution to the [FAQ Accordion challenge on Frontend Mentor](https://w
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,11 +19,6 @@ This is a solution to the [FAQ Accordion challenge on Frontend Mentor](https://w
 ![image](https://github.com/edgargavioli/faq_frontend_mentor/assets/58188033/fb2ef82b-5744-463e-8dcb-1a61c32232e1)
 
 ![image](https://github.com/edgargavioli/faq_frontend_mentor/assets/58188033/1dd95338-0bd3-4035-a04e-2a7fe217ef59)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
